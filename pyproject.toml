@@ -42,7 +42,7 @@ dependencies = [
     "plotly==5.24.1",
     # Include ja/ko tokenization options
     "sacrebleu[ja,ko]==2.5.1",
-    "streamlit==1.43.2",
+    "streamlit==1.54.0",
     "tensorflow==2.15.1",
     "torch==2.2.1",
     "transformers[sentencepiece]==4.49.0",
